@@ -95,7 +95,7 @@ section{
 /* ----hero----- */
 
 .main-section-hero{   
-    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/imgbackground.jpg);            
+    background-image: linear-gradient( rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../image/imgbackground.jpg);            
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
